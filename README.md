@@ -6,3 +6,9 @@ Survey-based data analysis project exploring online shopping behavior, advertise
 The survey was designed and distributed using Google Forms to collect responses related to online shopping behavior, advertisement influence, and platform trust.
 
 🔗 Google Form: [https://docs.google.com/forms/d/e/1FAIpQLSdCFTVAM-YXa07YsaH0W9-pYwfoRDcSNSPXrgFkMLJNobb5bg/viewform]
+
+
+## Visualizations
+
+📄 Full Power BI Report: [View PDF](report/PowerBI_Visualizations.pdf)
+
