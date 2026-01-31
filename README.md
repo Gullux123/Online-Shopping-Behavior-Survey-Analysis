@@ -25,3 +25,17 @@ The survey was designed and distributed using Google Forms to collect responses 
 ### Advertisement Influence
 ![Ad Platform Influence](visuals/ad_platform_influence.png)
 > Social media and influencer ads impact purchasing decisions more than search ads.
+
+### Likelihood of Recommendation After Good Experience
+![Recommendation Likelihood](visuals/recommendation_likelihood.png)
+> Most respondents rated their likelihood to recommend an e-commerce platform as 4 or 5, indicating high customer satisfaction and positive post-purchase experience.
+
+
+
+
+
+
+
+
+
+
