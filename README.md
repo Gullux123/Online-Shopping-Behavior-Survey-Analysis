@@ -95,7 +95,7 @@ All responses were anonymous and collected for academic and analytical purposes.
 The complete Power BI dashboard containing all survey visualizations is provided below for detailed reference.
 
 📄 **Power BI Visualization Report (PDF):**  
-[View Full Report](report/PowerBI_Visualization_Report.pdf)
+[View Full Report](report/PowerBI_Visualizations.pdf)
 
 
 ## Business Recommendations
