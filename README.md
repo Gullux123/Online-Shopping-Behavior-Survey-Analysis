@@ -10,6 +10,8 @@ Based on these findings, this project recommends adopting youth-focused marketin
 
 ---
 
+
+
 ## Problem Statement
 
 With the rapid growth of e-commerce platforms, understanding customer behavior, trust factors, and the impact of digital advertising has become crucial for improving sales performance and customer retention. Businesses need data-driven insights to identify what influences purchasing decisions and how trust is built among online consumers.
@@ -109,7 +111,7 @@ The complete Power BI dashboard containing all survey visualizations is provided
 
 ---
 
-## Key Skills Demonstrated
+## Skills Applied
 
 - Survey design and data collection
 - Data cleaning and preparation
